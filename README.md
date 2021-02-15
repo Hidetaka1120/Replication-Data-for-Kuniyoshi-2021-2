@@ -33,7 +33,7 @@ pr: Gas pressure \
 eta: Resistivity 
 
 ## Usage of the Python file
-For example, when reading 'asp10eta79-0200.dat' [<img src="https://render.githubusercontent.com/render/math?math=(b/a)^2=0.10, \eta_A=79">], where 'asp10' refers to the <img src="https://render.githubusercontent.com/render/math?math=(b/a)^2=0.10">, and 'eta79' refers to the <img src="https://render.githubusercontent.com/render/math?math=\eta_A=79">. write these commands in Python,
+For example, when reading asp10eta79-0200.dat [<img src="https://render.githubusercontent.com/render/math?math=(b/a)^2=0.10, \eta_A=79">], where "asp10" refers to the <img src="https://render.githubusercontent.com/render/math?math=(b/a)^2=0.10">, and "eta79" refers to the <img src="https://render.githubusercontent.com/render/math?math=\eta_A=79">. write these commands in Python,
 
 ```python
 import numpy as np
